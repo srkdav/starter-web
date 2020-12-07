@@ -11,3 +11,6 @@ dummy
 dummy
 
 ## new section
+
+##copyright
+notice
