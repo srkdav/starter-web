@@ -15,4 +15,4 @@ dummy
 dummy
 
 ##copyright
-notice
+notice. stash copyright
